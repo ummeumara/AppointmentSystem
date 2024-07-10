@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604529140224",
+    "project_id": "madfirebase-3df6b",
+    "storage_bucket": "madfirebase-3df6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604529140224:android:03fe65938ec9312dec6ee5",
+        "android_client_info": {
+          "package_name": "com.example.appointmentsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI3US20NzRkcTXmZ2Gqk6zaIP2sPRndQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppointmentSystem</string>
+    <string-array name="user_type_array">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+</resources>
